@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\loans",
+    "\\src\\loans\\dto",
+    "\\src\\posts",
+    "\\src\\roles",
+    "\\src\\roles\\dto"
+  ],
+  "SelectedNode": "\\src\\roles\\dto\\create-role.dto.ts",
+  "PreviewInSolutionExplorer": false
+}
